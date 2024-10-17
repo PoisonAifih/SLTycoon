@@ -1,5 +1,6 @@
 # SLTycoon
 Teaches how to live a Sustainable Lifestyle!!
+The file is too big for github lmao, here's the link https://drive.google.com/file/d/1DS1JRXbTcrKZn3KbxPCJUp_HoObsM8HX/view?usp=sharing
 
 There're three minigame-like jobs where you can earn money from, 
 read how to play each game from the how to play menu that you can click when first starting every minigame/
