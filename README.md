@@ -1,6 +1,6 @@
 # SLTycoon
 Teaches how to live a Sustainable Lifestyle!!
-The file is too big to upload lmao, here's the link:
+Link to final game:
 https://drive.google.com/file/d/1DS1JRXbTcrKZn3KbxPCJUp_HoObsM8HX/view?usp=sharing
 
 There're three minigame-like jobs where you can earn money from, 
@@ -17,6 +17,7 @@ Pick right and you will be rewarded, pick wrong and you'll get a penalty.
 Be carefull, you can fall into debt!!
 
 Always exit with the save and quit button on the main setting button, click the setting button again to close the settings.
+As of 2025, the save file function stopped working.
 
 
 Happy playing!
